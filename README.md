@@ -41,8 +41,8 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-22     | Visual Studio Community 2019        | Windows (Optional: Mac/Linux witn proper configuration) |
-| 1-22     | SFML                                | Windows (Optional: Mac/Linux witn proper configuration) |
+| 1-22     | Visual Studio Community 2019        | Windows (Optional: Mac/Linux with proper configuration) |
+| 1-22     | SFML                                | Windows (Optional: Mac/Linux with proper configuration) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838648572_ColorImages.pdf).
 
