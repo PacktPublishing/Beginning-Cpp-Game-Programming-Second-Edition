@@ -1,6 +1,6 @@
 # Beginning C++ Game Programming - Second Edition
 
-<a href="https://www.packtpub.com/game-development/beginning-c-20-game-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838648572"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838648572-original.jpeg" alt="Beginning C++ Game Programming - Second Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/game-development/beginning-c-20-game-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838648572"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781838648572-original.png" alt="Beginning C++ Game Programming - Second Edition" height="256px" align="right"></a>
 
 This is the code repository for [Beginning C++ Game Programming - Second Edition](https://www.packtpub.com/game-development/beginning-c-20-game-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838648572), published by Packt.
 
@@ -45,6 +45,10 @@ With the following software and hardware list you can run all code files present
 | 1-22     | SFML                                | Windows (Optional: Mac/Linux with proper configuration) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838648572_ColorImages.pdf).
+
+## Errata
+* Page 134 (line 6) **Draw the line** _should be_ Draw the line  (Please note this isn't in BOLD)
+* Page 92 (line 14 from the top) **Now draw the insect** _should be_ **Draw the insect** 
 
 ### Related products <Other books you may enjoy>
 * C++ Game Development By Example [[Packt]](https://www.packtpub.com/web-development/c-game-development-example?utm_source=github&utm_medium=repository&utm_campaign=9781789535303) [[Amazon]](https://www.amazon.com/dp/1789535301)
