@@ -49,6 +49,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Errata
 * Page 134 (line 6) **Draw the line** _should be_ Draw the line  (Please note this isn't in BOLD)
 * Page 92 (line 14 from the top) **Now draw the insect** _should be_ **Draw the insect** 
+* Page 532 (GameObject code block) **m_UpdateComponent = new UFOUpdateComponentComponent();** _should be_ **m_UpdateComponent = new UFOUpdateComponent();**
 
 ### Related products <Other books you may enjoy>
 * C++ Game Development By Example [[Packt]](https://www.packtpub.com/web-development/c-game-development-example?utm_source=github&utm_medium=repository&utm_campaign=9781789535303) [[Amazon]](https://www.amazon.com/dp/1789535301)
