@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B14278?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Beginning C++ Game Programming - Second Edition
 
 <a href="https://www.packtpub.com/game-development/beginning-c-20-game-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838648572"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781838648572-original.png" alt="Beginning C++ Game Programming - Second Edition" height="256px" align="right"></a>
