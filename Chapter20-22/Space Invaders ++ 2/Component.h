@@ -1,7 +1,7 @@
 #pragma once
 #include "GameObjectSharer.h"
 #include <string>
-
+#include<memory> //used  for shared pointer
 using namespace std;
 
 class GameObject;
