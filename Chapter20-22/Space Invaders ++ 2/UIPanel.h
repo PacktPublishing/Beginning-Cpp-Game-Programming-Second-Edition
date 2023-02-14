@@ -1,5 +1,6 @@
 #pragma once
 #include <SFML/Graphics.hpp>
+#include<memory> //used  for shared pointer
 #include "Button.h"
 
 using namespace std;
