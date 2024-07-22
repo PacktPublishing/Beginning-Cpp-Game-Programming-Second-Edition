@@ -50,6 +50,8 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838648572_ColorImages.pdf).
 
 ## Errata
+* https://github.com/PacktPublishing/Beginning-Cpp-Game-Programming-Second-Edition/blob/df1d217b4479bb396741406789c75d178641be69/Chapter02/code/Timber.cpp#L13
+  `RenderWindow window(vm, "Timber!!!", Style::Fullscreen);` _should be_ `RenderWindow window(vm, "Timber!!!", Style::Default);`
 * Page 134 (line 6) **Draw the line** _should be_ Draw the line  (Please note this isn't in BOLD)
 * Page 92 (line 14 from the top) **Now draw the insect** _should be_ **Draw the insect** 
 * Page 532 (GameObject code block) **m_UpdateComponent = new UFOUpdateComponentComponent();** _should be_ **m_UpdateComponent = new UFOUpdateComponent();**
